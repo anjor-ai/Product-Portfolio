@@ -14,7 +14,7 @@
 
 | Metric | Before | After | Change |
 |--------|--------|-------|--------|
-| Prepaid order-to-delivery | 77.2% | 81.4% | **+3.2pp** |
+| Prepaid order-to-delivery | 77.2% |  89.7% | **+3.2pp** |
 | RTO rate | Baseline | — | **−1.6pp** |
 | Order cancellations | Baseline | — | **−2.3pp** |
 | Daily orders delivered | — | ~26,000 | — |
@@ -102,7 +102,7 @@ Moved payment collection to order placement — matching standard ecommerce. Red
 
 Validated via a phased A/B rollout released in milestones over one month:
 
-- **Prepaid delivery +3.2pp** — from 77.2% to 81.4% across App and Web
+- **Prepaid delivery +3.2pp** — from 77.2% to  89.7% across App and Web
 - **RTO −1.6pp** — fewer orders returning due to missed payments and courier-ineligible CODs
 - **Cancellations −2.3pp** — auto-cancellations from missed payment windows eliminated
 - **Support tickets reduced** — "When will my payment activate?" and "Where is my order?" queries dropped significantly
